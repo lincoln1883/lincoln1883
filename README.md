@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lincoln Software developer from Jamaica / Brasil.
 
 <!--
 **lincoln1883/lincoln1883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
