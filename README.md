@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Lincoln Software developer from Jamaica / Brasil.
+## 🌱 I’m currently a student at Microverse...
 
 <!--
 **lincoln1883/lincoln1883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
