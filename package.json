@@ -1,0 +1,14 @@
+{
+  "name": "lincoln1883",
+  "version": "1.0.0",
+  "description": "<div id=\"header\" align=\"center\">   <img src=\"https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif\" width=\"200\"/> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}

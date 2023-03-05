@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="200"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm lincoln</h1>
-<h3 align="center">A passionate Web Developer from Jamaica currently living in Brasil.</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13"/> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13"/> <b>Rio de janeiro, Brazil</b>. </p>
+</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=lincoln1883&label=Profile%20views&color=0e75b6&style=flat" alt="lincoln1883" /> 
@@ -27,7 +24,6 @@
 
 ---
 
-
 <h3 align="left">Follow me:</h3>
 <p align="left">
   <a href="https://twitter.com/lincolngibson7" target="blank">
@@ -40,7 +36,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lincolngibson7" height="30" width="40" />
   </a>
 </p>
-
 
 ---
 
@@ -92,6 +87,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lincoln1883&&show_icons=true&theme=radical" alt="lincoln1883" />
 </p>
-
-
-
