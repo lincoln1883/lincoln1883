@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm lincoln</h1>
-<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13"/> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13"/> <b>Rio de janeiro, Brazil</b>. </p>
+<h1 align="center">Yow 👋 Wah gwaan?</h1>
+<p align="left">I'm Lincoln Web developer from<img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" height="15"/> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13"height="15"/> <b>Rio de janeiro, Brazil</b>. </p>
 </h3>
 
 <p align="left"> 
@@ -26,15 +26,17 @@
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
-  <a href="https://twitter.com/lincolngibson7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lincolngibson7" height="30" width="40" />
-  </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/lincoln-gibson" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lincoln-gibson" height="30" width="40" />
-  </a>
+  
 <a href="https://www.hackerrank.com/lincolngibson7" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lincolngibson7" height="30" width="40" />
   </a>
+  <a href="https://github.com/lincoln1883" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="lincolngibson7"/>
+  </a> 
+  <a href="https://twitter.com/lincolngibson7" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lincolngibson7" />
+  </a> 
+  <a href="https://www.linkedin.com/in/lincoln-gibson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
