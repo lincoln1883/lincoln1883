@@ -1,5 +1,5 @@
 <h1 align="center">Yow 👋 Wah gwaan?</h1>
-<p align="left">I'm Lincoln Web developer from<img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" /> <b> St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13" /> <b> Rio de janeiro, Brazil</b>. </p>
+<p align="left">I'm Lincoln Web developer from<img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" height="15"/> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13"height="15"/> <b>Rio de janeiro, Brazil</b>. </p>
 </h3>
 
 <p align="left"> 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
-  
+
 <a href="https://www.hackerrank.com/lincolngibson7" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lincolngibson7" height="30" width="40" />
   </a>
@@ -37,6 +37,7 @@
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lincolngibson7" />
   </a> 
   <a href="https://www.linkedin.com/in/lincoln-gibson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 </p>
 
 ---
@@ -90,8 +91,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lincoln1883&&show_icons=true&theme=radical" alt="lincoln1883" />
 </p>
 
----
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{refresh_date}}<br /></p>
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: <br /></p>
 <p align="center"><img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
  <img alt="Forks" src="https://img.shields.io/github/forks/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/></p>
+
