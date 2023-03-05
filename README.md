@@ -1,13 +1,12 @@
-<h1 align="center">Yow 👋, Wah gwaan?</h1>
+<h1 align="center">Yow 👋 Wah gwaan?</h1>
+<p align="left">I'm Lincoln Web developer from<img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" height="15"/> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13"height="15"/> <b>Rio de janeiro, Brazil</b>. </p>
+</h3>
 
-<div align="center">
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=lincoln1883&label=Visitor%20number&color=0e75b6&style=flat" alt="lincoln1883" /> 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lincoln1883&label=Profile%20views&color=0e75b6&style=flat" alt="lincoln1883" /> 
 </p>
-<p>I'm Lincoln Web developer from <img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13"/> <b> Jamaica </b>, living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13"/> <b>Rio de janeiro, Brazil</b>. </p>
-</div>
 
-<p align="center">
+<p align="left">
   <a href="https://github-profile-trophy.vercel.app/">
     <img src="https://github-profile-trophy.vercel.app/?username=lincoln1883&theme=radical" alt="lincoln1883" />
   </a>
@@ -27,13 +26,18 @@
 
 <h3 align="left">Follow me:</h3>
 <p align="left">
+
+<a href="https://www.hackerrank.com/lincolngibson7" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lincolngibson7" height="30" width="40" />
+  </a>
   <a href="https://github.com/lincoln1883" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="lincolngibson7"/>
   </a> 
   <a href="https://twitter.com/lincolngibson7" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lincolngibson7" />
   </a> 
-  <a href="https://www.linkedin.com/in/lincoln-gibson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/lincoln-gibson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 </p>
 
 ---
@@ -89,6 +93,6 @@
 
 ---
 
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: {{ refresh_date }}<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh:{{ refresh_date }} <br /></p>
 <p align="center"><img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
  <img alt="Forks" src="https://img.shields.io/github/forks/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/></p>
