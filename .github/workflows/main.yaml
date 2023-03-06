@@ -16,10 +16,10 @@ jobs:
     steps:
       - name: Checkout current repository to Master branch
         uses: actions/checkout@v3
-      - name: Setup NodeJs 16.x
+      - name: Setup NodeJs 18
         uses: actions/setup-node@v3.6.0
         with:
-          node-version: '16.x'
+          node-version: 18
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v3
         with:
@@ -30,6 +30,6 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
-        uses: publish-to-github-action@master
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
