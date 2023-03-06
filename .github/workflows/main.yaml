@@ -14,10 +14,10 @@ jobs:
     steps:
       - name: Checkout current repository to Main branch
         uses: actions/checkout@v3
-      - name: Setup NodeJs 18
+      - name: Setup NodeJs 16.x
         uses: actions/setup-node@v3.6.0
         with:
-          node-version: 18
+          node-version: '16.x'
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v3
         with:
