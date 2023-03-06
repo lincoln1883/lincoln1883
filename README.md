@@ -4,7 +4,7 @@
 <p> 
   <img src="https://komarev.com/ghpvc/?username=lincoln1883&label=Visitor%20views&color=0e75b6&style=flat" alt="lincoln1883" /> 
 </p>
-<p>I'm Lincoln Web developer from <img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" /> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13 /> <b>Rio de janeiro, Brazil</b>. 
+<p>I'm Lincoln Web developer from <img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" /> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13" /> <b>Rio de janeiro, Brazil</b>. 
 </p>
 </div>
 
