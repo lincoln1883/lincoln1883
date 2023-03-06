@@ -2,7 +2,7 @@
 
 <div align="center">
   <p> 
-    <img src="https://komarev.com/ghpvc/?username=lincoln1883&label=Visitor%20views&color=0e75b6&style=flat" alt="lincoln1883" /> 
+    <img src="https://komarev.com/ghpvc/?username=lincoln1883&label=Visitor%20number&color=0e75b6&style=flat" alt="lincoln1883" /> 
   </p>
   <p>I'm Lincoln Web developer from <img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" /> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13" /> <b>Rio de janeiro, Brazil</b>. 
   </p>
@@ -88,8 +88,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lincoln1883&&show_icons=true&theme=radical" alt="lincoln1883" />
 </p>
 
-------------
+---
+
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, March 5 at 9:24 PM GMT-3<br /></p>
 <p align="center"><img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
  <img alt="Forks" src="https://img.shields.io/github/forks/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/></p>
-
