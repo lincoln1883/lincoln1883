@@ -19,10 +19,8 @@
 ### :man_technologist: About Me :
 
 - 🌱 I’m currently learning **full-stack development at Microverse**
-
-- 👨‍💻 All of my projects are available at [https://lincoln-gibson-portfolio.netlify.app/](https://lincoln-gibson-portfolio.netlify.app/)
-
-- 📫 How to reach me **lincolngibson7@gmail.com**
+- My interest are learning web development concepts, through practice and collaberation.
+- I enjoying reading interesting books on a variety of subjects and playing with my dog. 
 
 ---
 
@@ -35,6 +33,8 @@
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lincolngibson7" />
   </a> 
   <a href="https://www.linkedin.com/in/lincoln-gibson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/u/?authuser=lincolngibson7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://lincoln-gibson-portfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
@@ -89,7 +89,7 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, March 6, 5:16 PM GMT-3<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, March 6, 5:27 PM GMT-3<br /></p>
 <p align="center"><img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
  <img alt="Forks" src="https://img.shields.io/github/forks/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/></p>
 
