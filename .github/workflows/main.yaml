@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 */6 * * *'
 
@@ -12,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
+      - name: Checkout current repository to Main branch
         uses: actions/checkout@v3
       - name: Setup NodeJs 18
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v3.6.0
         with:
           node-version: 18
       - name: Cache dependencies and build outputs to improve workflow execution time.
@@ -28,6 +28,6 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
+        uses: mikeal/publish-to-github-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
