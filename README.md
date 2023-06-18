@@ -1,10 +1,10 @@
-<h1 align="center">Yow 👋, Wah gwaan?</h1>
+<h1 align="center">👋 Hello, I'm Lincoln!</h1>
 
 <div align="center">
   <p> 
     <img src="https://komarev.com/ghpvc/?username=lincoln1883&label=Visitor%20number&color=0e75b6&style=flat" alt="lincoln1883" /> 
   </p>
-  <p>I'm Lincoln Web developer from <img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" /> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13" /> <b>Rio de janeiro, Brazil</b>. 
+  <p>I'm a Web developer from <img src="https://cdn-icons-png.flaticon.com/128/555/555653.png" width="13" /> <b>St Ann, Jamaica</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/5111/5111676.png" width="13" /> <b>Rio de janeiro, Brazil</b>. 
   </p>
 </div>
 
@@ -18,9 +18,9 @@
 
 ### :man_technologist: About Me :
 
-- 🌱 I’m currently learning **full-stack development at Microverse**
-- My interest are learning web development concepts, through practice and collaberation.
-- I enjoying reading interesting books on a variety of subjects and playing with my dog. 
+- 🌱 I’m currently learning full-stack development at Microverse.
+- 💻 I'm passionate about web development and love building exciting projects.
+- 📚 In my free time, I enjoy reading interesting books and playing with my dog.
 
 ---
 
@@ -32,9 +32,16 @@
   <a href="https://twitter.com/lincolngibson7" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lincolngibson7" />
   </a> 
-  <a href="https://www.linkedin.com/in/lincoln-gibson" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/u/?authuser=lincolngibson7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://lincoln-gibson-portfolio.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+ 
+  <a href="https://www.linkedin.com/in/lincoln-gibson" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/u/?authuser=lincolngibson7@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://lincoln-gibson-portfolio.netlify.app/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://medium.com/@lincolngibson7" target="_blank"
+   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -65,6 +72,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+   <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -89,7 +98,9 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, June 18, 6:11 PM GMT-3<br /></p>
-<p align="center"><img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
- <img alt="Forks" src="https://img.shields.io/github/forks/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/></p>
-
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, June 18, 6:35 PM GMT-3<br /></p>
+<p align="center">
+  <img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" />
+  <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
+  <img alt="Forks" src="https://img.shields.io/github/forks/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
+</p>
