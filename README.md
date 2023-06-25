@@ -37,8 +37,6 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/u/?authuser=lincolngibson7@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://lincoln-gibson-portfolio.netlify.app/" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://medium.com/@lincolngibson7" target="_blank"
    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
@@ -97,7 +95,7 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, June 24, 11:12 PM GMT-3<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, June 24, 11:17 PM GMT-3<br /></p>
 <p align="center">
   <img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883?style=flat-square&labelColor=343b41"/>
