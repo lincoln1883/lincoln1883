@@ -95,10 +95,10 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, July 4, 4:12 PM GMT-3<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, July 4, 5:02 PM GMT-3<br /></p>
 <p align="center">
   <img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/lincoln1883/lincoln1883?style=flat-square&labelColor=343b41"/>
-  <img alt="followers" src="https://img.shields.io/github/followers/lincoln1883?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  <img alt="followers" src="https://img.shields.io/github/followers/lincoln1883?style=flat-square&labelColor=236ad3"/>
 </p>
