@@ -20,7 +20,7 @@
 
 ---
 
-## 🏆GitHub Trophies :
+## 🏆GitHub Trophies
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/">
     <img src="https://github-profile-trophy.vercel.app/?username=lincoln1883&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="lincoln1883" />
@@ -59,7 +59,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, October 27 at 7:31 AM GMT-3<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, October 27, 7:42 AM GMT-3<br /></p>
 <p align="center">
   <img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883?style=flat-square&labelColor=343b41"/>
