@@ -9,13 +9,18 @@
 </div>
 
 ## 💫About Me :
-- 🌱 I’m currently learning full-stack development at Microverse.
-- 💻 I'm passionate about web development and love building exciting projects.
-- 📚 In my free time, I enjoy reading interesting books and playing with my dog.
+- 🎓 I'm a graduate of Microverse, an online school for remote software developers.
+- 🌱 A Certified Full-Stack Developer, dedicated to refining my portfolio.
+- 🔭 I’m currently excitedly learning Vue.js, finding it as captivating as React.
+- 👯 Open to collaboration on any project.
+- 🤝 I’m actively seeking job opportunities where I can apply my skills for a positive impact.
+- 📚 In my free time, I immerse myself in captivating books and enjoy quality time with my canine companion.
+- 💬 Feel free to strike up a conversation about sports.
+- ⚡ Fun fact: I have a past life as a DJ and a history as a multi-sport athlete.
 
 ---
 
-## 🏆GitHub Trophies
+## 🏆GitHub Trophies :
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/">
     <img src="https://github-profile-trophy.vercel.app/?username=lincoln1883&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="lincoln1883" />
@@ -54,7 +59,7 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, October 27, 7:14 AM GMT-3<br /></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, October 27 at 7:31 AM GMT-3<br /></p>
 <p align="center">
   <img src="https://github.com/lincoln1883/lincoln1883/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/lincoln1883?style=flat-square&labelColor=343b41"/>
